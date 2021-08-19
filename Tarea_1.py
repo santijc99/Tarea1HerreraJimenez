@@ -1,5 +1,6 @@
 # Elaborado por:Carlos Herrera Martinez,
 # Fecha de creacion:3/8/2021 10:20
+# ERR3 -1.5 Repitio el mismo error
 
 # Importacion de libreias
 from math import factorial
